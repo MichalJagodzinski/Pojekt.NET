@@ -3,47 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\pages\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:pages\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\viewmodels\\pages\\taskspageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\pages\\taskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:pages\\taskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\taskmanager.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\viewmodels\\controls\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\viewmodels\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\commandhelpers\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\pages\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:pages\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\controls\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:controls\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:taskmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\controls\\taskcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:controls\\taskcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\controls\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:controls\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\commandhelpers\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\viewmodels\\baseviewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A6EA21-CD3E-41B6-8F94-A6220A41A975}|..\\TaskManager.Core\\TaskManager.Core.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager.core\\viewmodels\\controls\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,37 +65,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:26:06.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TasksPageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
               "RelativeDocumentMoniker": "..\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
               "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
               "RelativeToolTip": "..\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwCYAAAAAAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwHsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:56:50.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
-              "RelativeDocumentMoniker": "..\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
-              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
-              "RelativeToolTip": "..\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:56:49.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "BaseViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs",
               "RelativeDocumentMoniker": "..\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs",
@@ -97,20 +109,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\CommandHelpers\\Command.cs",
-              "RelativeDocumentMoniker": "..\\TaskManager.Core\\CommandHelpers\\Command.cs",
-              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\CommandHelpers\\Command.cs",
-              "RelativeToolTip": "..\\TaskManager.Core\\CommandHelpers\\Command.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T09:56:47.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaskManager.Core",
+              "Title": "TaskManager.Core.csproj",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\TaskManager.Core.csproj",
               "RelativeDocumentMoniker": "..\\TaskManager.Core\\TaskManager.Core.csproj",
               "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\TaskManager.Core.csproj",
@@ -122,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -147,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -159,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TaskPage.xaml",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml",
               "RelativeDocumentMoniker": "Pages\\TaskPage.xaml",
@@ -171,7 +170,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "TaskPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\TaskPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml.cs",
+              "RelativeToolTip": "Pages\\TaskPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:19:57.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskManager.csproj",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\TaskManager.csproj",
+              "RelativeDocumentMoniker": "TaskManager.csproj",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\TaskManager.csproj",
+              "RelativeToolTip": "TaskManager.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T09:34:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -183,7 +208,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "..\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "RelativeToolTip": "..\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:56:49.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TaskControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Controls\\TaskControl.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\TaskControl.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Controls\\TaskControl.xaml.cs",
+              "RelativeToolTip": "Controls\\TaskControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:19:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\CommandHelpers\\Command.cs",
+              "RelativeDocumentMoniker": "..\\TaskManager.Core\\CommandHelpers\\Command.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\CommandHelpers\\Command.cs",
+              "RelativeToolTip": "..\\TaskManager.Core\\CommandHelpers\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T09:56:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "Styles\\Styles.xaml",
@@ -191,19 +255,6 @@
               "RelativeToolTip": "Styles\\Styles.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-22T09:36:13.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TaskManager",
-              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\TaskManager.csproj",
-              "RelativeDocumentMoniker": "TaskManager.csproj",
-              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\TaskManager.csproj",
-              "RelativeToolTip": "TaskManager.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-22T09:34:19.782Z",
               "EditorCaption": ""
             }
           ]

@@ -22,8 +22,17 @@
                 <ComboBoxItem Content="Wysoki"/>
             </ComboBox>
             <StackPanel Orientation="Horizontal">
-                <Button Command="{Binding AddButtonCommand}" Content="Dodaj Zadanie" Style="{StaticResource ButtonStyle}"></Button>
-                <Button Command="{Binding DeleteButtonCommand}" Style="{StaticResource ButtonStyle}" Content="Usuń Zadanie"></Button>
+                <Button Command="{Binding AddButtonCommand}" Content="Dodaj zadanie" Style="{StaticResource ButtonStyle}"></Button>
+                <Button Command="{Binding DeleteButtonCommand}" Style="{StaticResource ButtonStyle}" Content="Usuń zadanie"></Button>
+            </StackPanel>
+            <StackPanel>
+                <Button Command="{Binding DeleteAllButtonCommand}" Content="Usuń wszystkie zadania z listy" Style="{StaticResource ButtonStyle}"></Button>
+            </StackPanel>
+            <StackPanel>
+                <Button Command="{Binding SaveButtonCommand}" Content="Zapisz zadania do pliku" Style="{StaticResource ButtonStyle}"></Button>
+            </StackPanel>
+            <StackPanel>
+                <Button Command="{Binding LoadButtonCommand}" Content="Wczytaj zadania z pliku" Style="{StaticResource ButtonStyle}"></Button>
             </StackPanel>
         </StackPanel>
 
