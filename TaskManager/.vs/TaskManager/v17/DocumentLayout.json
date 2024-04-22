@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\pages\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:pages\\taskpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\pages\\taskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:pages\\taskpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|c:\\users\\mjago\\source\\repos\\projekt.net\\taskmanager\\controls\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ED8CDA5-4A85-403C-99AB-C2C5D6387093}|TaskManager.csproj|solutionrelative:controls\\taskcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T09:45:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "..\\..\\TaskManager.Core\\ViewModels\\BaseViewModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:37:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\TaskPage.xaml",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml",
+              "RelativeToolTip": "Pages\\TaskPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T09:32:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\TaskPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Pages\\TaskPage.xaml.cs",
+              "RelativeToolTip": "Pages\\TaskPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:32:48.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T09:32:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "RelativeToolTip": "..\\..\\TaskManager.Core\\ViewModels\\Controls\\TaskViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:30:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TasksPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
+              "RelativeToolTip": "..\\..\\TaskManager.Core\\ViewModels\\Pages\\TasksPageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:30:27.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskControl.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Controls\\TaskControl.xaml",
+              "RelativeDocumentMoniker": "Controls\\TaskControl.xaml",
+              "ToolTip": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager\\Controls\\TaskControl.xaml",
+              "RelativeToolTip": "Controls\\TaskControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T09:30:23.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

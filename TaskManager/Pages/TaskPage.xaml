@@ -1,0 +1,44 @@
+﻿<Page x:Class="TaskManager.TaskPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TaskManager"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TaskPage">
+
+    <Grid>
+
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center">
+            <TextBlock Text="Nazwa Zadania"></TextBlock>
+            <TextBox Text="{Binding TaskTitle, Mode=TwoWay}"/>
+            <TextBlock Text="Opis zadania"></TextBlock>
+            <TextBox Text="{Binding TaskDescription, Mode=TwoWay}"/>
+            <TextBlock Text="Priorytet zadania"></TextBlock>
+            <ComboBox Text="{Binding TaskPriority, Mode=TwoWay}">
+                <ComboBoxItem Content="Niski"/>
+                <ComboBoxItem Content="Średni"/>
+                <ComboBoxItem Content="Wysoki"/>
+            </ComboBox>
+            <StackPanel Orientation="Horizontal">
+                <Button Command="{Binding AddButtonCommand}" Content="Dodaj Zadanie"></Button>
+                <Button Content="Usuń Zadanie"></Button>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Twoje zadania"></TextBlock>
+            <ScrollViewer Height="300">
+                <ItemsControl ItemsSource="{Binding TasksList}" Margin="10" HorizontalAlignment="Center">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <local:TaskControl/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+            
+        </StackPanel>
+    </Grid>
+</Page>
