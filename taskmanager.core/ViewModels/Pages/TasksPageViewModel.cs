@@ -18,10 +18,12 @@ namespace TaskManager.Core
         public string TaskDescription { get; set; }
         public string TaskPriority { get; set; }
         public ICommand AddButtonCommand { get; set; }
+        public ICommand DeleteButtonCommand { get; set; }
 
         public TasksPageViewModel()
         {
             AddButtonCommand = new Command(AddTask);
+            DeleteButtonCommand = new Command(DeleteTask);
         }
 
         public void AddTask()
@@ -33,16 +35,20 @@ namespace TaskManager.Core
                 Priority = TaskPriority,
                 DateTimeTaskCreated = DateTime.Now,
             };
-
             TasksList.Add(task);
 
             TaskTitle = string.Empty;
             TaskDescription = string.Empty;
             TaskPriority = string.Empty;
+        }
 
-            onPropertyChange(nameof(TaskTitle));
-            onPropertyChange(nameof(TaskDescription));
-            onPropertyChange(nameof(TaskPriority));
+        public void DeleteTask()
+        {
+            var checkedTasks = TasksList.Where(x => x.IsChecked).ToList();
+            foreach (var task in checkedTasks)
+            {
+                TasksList.Remove(task);
+            }
         }
     }
 }

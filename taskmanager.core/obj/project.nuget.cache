@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oEW+1onchMSSNo3aeczDNIv8lVcGmTXjn/0pzhAtPyAXtIq7f1zmorwQm0ZXpiFsPzK94ND+VSOSZg22lJsS5w==",
+  "dgSpecHash": "3i1ufOuNjQUsVqSMfurwnUf4i+yNSVYWCJSJqCKce/sQOlwPVUo2lujhHm/T2YlYn3IyGbVdCivqtWr8pqxeRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mjago\\source\\repos\\Projekt.NET\\TaskManager.Core\\TaskManager.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mjago\\.nuget\\packages\\extended.wpf.toolkit\\4.6.0\\extended.wpf.toolkit.4.6.0.nupkg.sha512",
+    "C:\\Users\\mjago\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\mjago\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

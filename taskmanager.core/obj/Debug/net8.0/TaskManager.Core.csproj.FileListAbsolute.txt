@@ -20,3 +20,7 @@ C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\TaskMa
 C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\refint\TaskManager.Core.dll
 C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.pdb
 C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\ref\TaskManager.Core.dll
+C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.sourcelink.json
+C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.csproj.AssemblyReference.cache
+C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.csproj.Fody.CopyLocal.cache
+C:\Users\mjago\source\repos\Projekt.NET\TaskManager.Core\obj\Debug\net8.0\TaskManager.Core.csproj.Fody.RuntimeCopyLocal.cache

@@ -24,5 +24,8 @@
     <Page Update="Pages\TaskPage.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Styles\Styles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
 </Project>

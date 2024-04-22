@@ -11,24 +11,24 @@
     <Grid>
 
         <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center">
-            <TextBlock Text="Nazwa Zadania"></TextBlock>
-            <TextBox Text="{Binding TaskTitle, Mode=TwoWay}"/>
-            <TextBlock Text="Opis zadania"></TextBlock>
-            <TextBox Text="{Binding TaskDescription, Mode=TwoWay}"/>
-            <TextBlock Text="Priorytet zadania"></TextBlock>
-            <ComboBox Text="{Binding TaskPriority, Mode=TwoWay}">
+            <TextBlock Text="Nazwa Zadania" Style="{StaticResource TextBlockStyle}"></TextBlock>
+            <TextBox Text="{Binding TaskTitle, Mode=TwoWay}" Style="{StaticResource TextBoxStyle}"/>
+            <TextBlock Text="Opis zadania" Style="{StaticResource TextBlockStyle}"></TextBlock>
+            <TextBox Text="{Binding TaskDescription, Mode=TwoWay}" Style="{StaticResource TextBoxStyle}" />
+            <TextBlock Text="Priorytet zadania" Style="{StaticResource TextBlockStyle}"></TextBlock>
+            <ComboBox Text="{Binding TaskPriority, Mode=TwoWay}" Style="{StaticResource ComboBoxStyle}">
                 <ComboBoxItem Content="Niski"/>
                 <ComboBoxItem Content="Średni"/>
                 <ComboBoxItem Content="Wysoki"/>
             </ComboBox>
             <StackPanel Orientation="Horizontal">
-                <Button Command="{Binding AddButtonCommand}" Content="Dodaj Zadanie"></Button>
-                <Button Content="Usuń Zadanie"></Button>
+                <Button Command="{Binding AddButtonCommand}" Content="Dodaj Zadanie" Style="{StaticResource ButtonStyle}"></Button>
+                <Button Command="{Binding DeleteButtonCommand}" Style="{StaticResource ButtonStyle}" Content="Usuń Zadanie"></Button>
             </StackPanel>
         </StackPanel>
 
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBlock Text="Twoje zadania"></TextBlock>
+            <TextBlock Text="Twoje zadania" FontSize="18"></TextBlock>
             <ScrollViewer Height="300">
                 <ItemsControl ItemsSource="{Binding TasksList}" Margin="10" HorizontalAlignment="Center">
                     <ItemsControl.ItemTemplate>
